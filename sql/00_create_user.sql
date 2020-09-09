@@ -1,0 +1,1 @@
+CREATE USER IF NOT EXISTS 'testmvc'@'127.0.0.1' IDENTIFIED BY 'testmvc';
